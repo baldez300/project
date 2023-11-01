@@ -8,15 +8,17 @@
 
 1. Prototype
   - [Low-fidelity]
-  - Figma / Drawio / (even on paper) 
+  - Figma or Drawio 
 2. Project description 
   - The title of the project
   - The names of the members
   - The target users and other stakeholders
   - The main functionality of the application. 
   - Describe the user stories.
-
-> You can use ChatGPT to develop user stories 
+  - Product backlog
+3. Consider using ChatGPT for:
+  - Generating user stories and evaluating them in alignment with the INVEST principle
+  - Constructing a product backlog and Assessing tasks with respect to the DEEP principle
 
 
 ### Project Ideas

@@ -20,4 +20,6 @@ For Sprint 4, we have the following expectations:
 3. **Documentation**: API Server Documentation:
    - Create documentation for the API server. This should cover most endpoints, request and response structures, authentication methods, and any other relevant information.
 
- 
+4. Evaluating how your project aligns with the United Nations [Sustainable Development Goals at Metropolia University]
+
+[Sustainable Development Goals at Metropolia University]:https://www.metropolia.fi/kestavakehitys/en/Home
