@@ -1,4 +1,4 @@
-# Sprint 2 - Front-End/Back-End Integration
+# Sprint 2 
 
 **Deadline**
 
