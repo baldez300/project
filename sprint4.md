@@ -2,7 +2,7 @@
 
 ### Deadline
 
-- 2023-12-17 at 23:59
+- ~~2023-12-17~~ 2023-12-31 at 23:59
 
 > Don't forget to include the **contributions** of each team member when you submit the project.
 
